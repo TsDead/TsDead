@@ -231,7 +231,7 @@ class Stepan(Engineer):
 > И всё это работает на SQLite в Docker, без отдельного сервера БД.
 
 🌍 **Удалённо · UTC+3 · открыт к ролям AI / LLM-инженера**
-Стек иконками и GitHub-статистика — ниже, они общие для обеих версий ⬇️
+Стек иконками и серия коммитов — ниже, они общие для обеих версий ⬇️
 
 </details>
 
@@ -489,27 +489,10 @@ class Stepan(Engineer):
   </tr>
 </table>
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TsDead&show_icons=true&include_all_commits=true&count_private=true&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&border_radius=10" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsDead&layout=compact&langs_count=8&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&border_radius=10" alt="Top languages"/>
-</p>
+## 🔥 GitHub streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TsDead&background=0d1117&border=30363d&stroke=30363d&ring=a78bfa&fire=22d3ee&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&border_radius=10" alt="Commit streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TsDead&bg_color=0d1117&color=a78bfa&line=7c3aed&point=22d3ee&area=true&area_color=7c3aed&title_color=a78bfa&hide_border=false&border_color=30363d&radius=10" width="100%" alt="Contribution activity graph"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsDead/TsDead/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TsDead/TsDead/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/TsDead/TsDead/output/github-snake-dark.svg" alt="Snake eating my contribution graph"/>
-  </picture>
 </p>
 
 ## 💡 Fun fact
