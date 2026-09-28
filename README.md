@@ -30,6 +30,211 @@
   <img src="https://komarev.com/ghpvc/?username=TsDead&label=Profile%20views&color=7c3aed&style=flat-square" alt="Profile views"/>
 </p>
 
+<details>
+<summary><b>🇷🇺 Читать на русском</b></summary>
+
+<br/>
+
+### 🧑‍💻 Обо мне
+
+**Applied AI / LLM-инженер**: делаю то, благодаря чему LLM-системы реально работают в продакшене, — автономные агенты, поиск (RAG), оценка качества и наблюдаемость. Также создаю **Telegram Mini Apps**, **веб-сервисы** и **игры на Unity**.
+Я независимый разработчик и инди-предприниматель. Веду проекты под брендами **NOVACODE** (личный бренд) и **Duallix LLC** (игровая студия).
+
+```python
+class Stepan(Engineer):
+    role     = "Applied AI / LLM Engineer"
+    brands   = {"NOVACODE": "личный бренд", "Duallix LLC": "инди-студия игр"}
+    location = "Удалённо · UTC+3"
+
+    ai         = ["автономные агенты", "RAG", "MCP-серверы", "evals", "наблюдаемость LLM"]
+    full_stack = ["Python", "FastAPI", "aiogram", "React", "TypeScript", "Tailwind", "Docker"]
+    gamedev    = ["Unity 6", "C#", "оптимизация рендеринга", "геймдизайн"]
+
+    now_building = "Obsession of Fear"        # психологический хоррор на Unity 6
+    open_to      = "роли AI / LLM-инженера"
+
+    def philosophy(self) -> str:
+        return "Код решает задачи, продукт меняет жизни. Я делаю второе."
+```
+
+### 🤖 Что я делаю
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Автономные агенты</h4>
+      ReAct-циклы с нуля и работа с инструментами. Не завязаны на провайдера: облачные и открытые модели.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔎 RAG</h4>
+      Поиск по векторным БД (Qdrant · HNSW). Ответы со ссылками на источники, качество подтверждено evals.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔌 MCP-серверы</h4>
+      Инструменты по Model Context Protocol, которые может вызвать любой клиент (Claude Desktop / Code).
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Наблюдаемость LLM</h4>
+      Стоимость, задержки (p50 / p95) и надёжность.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>✅ Оценка качества</h4>
+      Golden-наборы и LLM-as-judge.
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 Telegram Mini Apps · 🎮 игры на Unity</h4>
+      Full-stack Mini Apps и веб-сервисы, собственные игры в Duallix LLC.
+    </td>
+  </tr>
+</table>
+
+### 🧠 AI-проекты
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 AI Agent</h4>
+      ReAct-агент с инструментами. <b>100% точность</b> выбора инструментов и ответов на golden-наборе.<br/><br/>
+      <a href="https://tsdead.github.io/ai-agent/"><img src="https://img.shields.io/badge/%D0%94%D0%B5%D0%BC%D0%BE-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Демо"/></a>
+      <a href="https://github.com/TsDead/ai-agent"><img src="https://img.shields.io/badge/%D0%9A%D0%BE%D0%B4-24292F?style=flat-square&logo=github&logoColor=white" alt="Код"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔌 MCP · RAG</h4>
+      MCP-сервер, который открывает базу знаний в Qdrant как набор инструментов.<br/><br/>
+      <a href="https://github.com/TsDead/mcp-rag"><img src="https://img.shields.io/badge/%D0%9A%D0%BE%D0%B4-24292F?style=flat-square&logo=github&logoColor=white" alt="Код"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔎 RAG · Qdrant</h4>
+      RAG на настоящей векторной БД (HNSW), локально или на сервере.<br/><br/>
+      <a href="https://github.com/TsDead/rag-qdrant"><img src="https://img.shields.io/badge/%D0%9A%D0%BE%D0%B4-24292F?style=flat-square&logo=github&logoColor=white" alt="Код"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 LLM Observability</h4>
+      Дашборд стоимости, задержек и надёжности.<br/><br/>
+      <a href="https://github.com/TsDead/observability"><img src="https://img.shields.io/badge/%D0%9A%D0%BE%D0%B4-24292F?style=flat-square&logo=github&logoColor=white" alt="Код"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>✉️ AI Cover-Letter</h4>
+      Сопроводительные письма под конкретную вакансию на основе резюме.<br/><br/>
+      <a href="https://tsdead.github.io/ai-coverletter/"><img src="https://img.shields.io/badge/%D0%94%D0%B5%D0%BC%D0%BE-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Демо"/></a>
+      <a href="https://github.com/TsDead/ai-coverletter"><img src="https://img.shields.io/badge/%D0%9A%D0%BE%D0%B4-24292F?style=flat-square&logo=github&logoColor=white" alt="Код"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎯 AI Job-Hunter</h4>
+      Telegram-бот, который оценивает вакансии с помощью LLM (hh.ru + RemoteOK).<br/><br/>
+      <a href="https://github.com/TsDead/job-hunter"><img src="https://img.shields.io/badge/%D0%9A%D0%BE%D0%B4-24292F?style=flat-square&logo=github&logoColor=white" alt="Код"/></a>
+    </td>
+  </tr>
+</table>
+
+### 🔥 Продукты и проекты для клиентов
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛍 YFB Store — Telegram Mini App</h4>
+      <i>Живой магазин одежды с автоимпортом из канала</i>
+      <ul>
+        <li>Парсинг постов (словари брендов/категорий, отслеживание «продано»)</li>
+        <li>Поиск по кириллице (<code>search_text</code>)</li>
+        <li>Оформление заказов, интеграция с доставкой</li>
+        <li>Полный CI/CD на Amvera PaaS</li>
+        <li>110 тестов, headless‑отладка WebView через Puppeteer</li>
+      </ul>
+      <p><a href="https://t.me/YFB_Store_bot"><b>Попробовать →</b></a> (Mini App внутри @YFB_Store_bot)</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎮 Obsession of Fear</h4>
+      <i>Психологический хоррор на Unity 6 · Duallix LLC</i>
+      <p>Разработка игры с акцентом на атмосферу и психологическое напряжение. В фокусе — геймдизайн, оптимизация рендеринга и система прогрессии.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🖼 «Кумиры Северной Пальмиры»</h4>
+      <i>Холографическая выставка · имиджевый лендинг с 3D-эффектом</i>
+      <p>Заказчик — клиент из СПб. WordPress + Elementor (Free) и кастомный JS: mousemove 3D-ротация, scroll‑scrubbing.
+      Работает на бесплатном хостинге (InfinityFree) с заблокированным <code>mail()</code> — обошли через формы.</p>
+      <p><a href="https://holo.galoba.ru"><b>Смотреть →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Сайт-портфолио Duallix</h4>
+      <i>Одностраничная презентация услуг по Telegram-ботам</i>
+      <p>Чистый HTML/CSS/JS, адаптив, тёмная тема.</p>
+      <p><a href="https://tsdead.github.io/duallix"><b>Сайт →</b></a> · <a href="https://github.com/TsDead/duallix"><b>Репозиторий →</b></a></p>
+    </td>
+  </tr>
+</table>
+
+### ⚡️ Как я работаю
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎯 Не беру заказы, которые не развивают мой продукт</h4>
+      Работаю точечно — только с теми, кто готов строить долгосрочное.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤝 Работаю без бирж — только по прямым контактам</h4>
+      Никаких посредников, только личная ответственность и результат.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧩 Стек под задачу, а не задача под стек</h4>
+      Выбираю технологии, которые решают проблему, а не потому что «модно».
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Продукт в приоритете над кодом</h4>
+      Если код не приносит пользу — это просто строки.
+    </td>
+  </tr>
+</table>
+
+### 💼 Бизнес-направления
+
+| Направление | Статус | Детали |
+|:--|:--:|:--|
+| **NOVACODE** (личный бренд) | ![Активно](https://img.shields.io/badge/%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE-2ea043?style=flat-square) | Разработка Telegram‑ботов, веб‑сервисов, лендингов, калькуляторов, SVG‑дизайн. Работаю только по прямым контактам. |
+| **Duallix LLC** (GameDev) | ![Долгосрочно](https://img.shields.io/badge/%D0%94%D0%BE%D0%BB%D0%B3%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE-7c3aed?style=flat-square) | Инди‑студия, разрабатываю собственные игровые проекты (в т.ч. Obsession of Fear). Приоритет №1, не прерывается ради заказов. |
+
+### 📚 Ключевые навыки
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      ✅ Парсинг кастомных постов Telegram с кириллицей и словарями<br/>
+      ✅ Отладка WebView через Puppeteer в headless‑режиме<br/>
+      ✅ Runtime‑миграции SQLite без Alembic<br/>
+      ✅ Деплой на Amvera / Docker / GitHub Pages
+    </td>
+    <td width="50%" valign="top">
+      ✅ Оптимизация Unity (Batching, Baking, LOD)<br/>
+      ✅ Кастомизация WordPress без Pro‑версии<br/>
+      ✅ Геймдизайн психологического хоррора<br/>
+      ✅ Работа с платежами: карты, крипта, наличные
+    </td>
+  </tr>
+</table>
+
+### 💡 Интересный факт
+
+> В 2026 году я запустил автоматический парсинг товаров из Telegram‑канала прямо в Mini App — заказчик получает витрину **за 5 минут после поста**.
+> И всё это работает на SQLite в Docker, без отдельного сервера БД.
+
+🌍 **Удалённо · UTC+3 · открыт к ролям AI / LLM-инженера**
+Стек иконками и GitHub-статистика — ниже, они общие для обеих версий ⬇️
+
+</details>
+
 ## 🧑‍💻 About me
 
 **Applied AI / LLM Engineer**: autonomous agents, retrieval, evaluation and observability. I also ship **Telegram Mini Apps**, **web services** and **Unity games**.
